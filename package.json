@@ -1,0 +1,22 @@
+{
+  "name": "mongodbtutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DCarr40/MongoTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DCarr40/MongoTutorial/issues"
+  },
+  "homepage": "https://github.com/DCarr40/MongoTutorial#readme",
+  "dependencies": {
+    "mongoose": "^5.13.0"
+  }
+}
